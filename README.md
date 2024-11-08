@@ -42,12 +42,12 @@ I also added a lot of new features that go beyond the original theme's capabilit
 <!--
 - custom colors with automatic gradient generation (coming soon)
 - site title logo text font customization (coming soon)
-- horizontal scrolling support for portfolio section (coming soon)
+- horizontal scrolling support for group_classes section (coming soon)
 - about section (different from the resources) -->
 
 The Jekyll structure of this theme includes:
 
-- `_portfolio` files - what generate the portfolio grid. YAML front matter handles all the details
+- `_group_classes` files - what generate the group_classes grid. YAML front matter handles all the details
 - the `page` layout allows custom pages, as seen in the legal and 404 pages
 - `sitetext.yml` enables complete customization of all site text
 - `navigation.yml` enables fully customizable navigation

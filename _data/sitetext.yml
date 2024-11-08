@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         desc: "Look under the \"Resources\" tab for free language learning resources in your desired language curated for all proficiency levels."
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  group_classes:
+    title: "Group Classes"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: group_classes
     closebutton: "Close Project"
 
   resources:
@@ -191,7 +191,7 @@ es: &DEFAULT_ES
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
-  portfolio:
+  group_classes:
     title: "Portafolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
